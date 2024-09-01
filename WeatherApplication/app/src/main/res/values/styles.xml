@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NavDrawerItemTextStyle">
+        <item name="android:textSize">25sp</item> <!-- Задай нужный размер текста -->
+        <item name="android:textColor">@color/nav_item_text_color</item> <!-- Можно задать цвет текста -->
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+</resources>

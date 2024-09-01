@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:background="@color/black"
+        android:enabled="false"
+        android:title="" />
+    <item
+        android:id="@+id/nav_current"
+        android:title="Прогноз на сьогодні" />
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:background="@color/black"
+        android:enabled="false"
+        android:title="" />
+    <item
+        android:id="@+id/nav_forecast"
+        android:title="Прогноз на 7 днів" />
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:background="@color/black"
+        android:enabled="false"
+        android:title="" />
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Налаштування" />
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:background="@color/black"
+        android:enabled="false"
+        android:title="" />
+</menu>
